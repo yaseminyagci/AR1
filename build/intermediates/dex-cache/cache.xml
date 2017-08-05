@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\heb\education\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="C:\Users\user\Desktop\heb\education\build\intermediates\pre-dexed\debug\VuforiaUnityPlayer_9a1af34f848e20fe5978a1b78279010f8a21ba98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\heb\education\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba0f969d0404f32b61d20daadd8e7c96c2048b4b">
+        <dex dex="C:\Users\user\Desktop\heb\education\build\intermediates\pre-dexed\debug\unity-classes_ac835e4a0875f615dfd1e428df61553751a6767d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\heb\education\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="C:\Users\user\Desktop\heb\education\build\intermediates\pre-dexed\debug\Vuforia_4558e01d3b8faff2445315c98e72c591bc8cd3c9.jar" />
+    </item>
+
+</items>
